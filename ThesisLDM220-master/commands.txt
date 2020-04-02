@@ -1,0 +1,2 @@
+pyinstaller UI.py -w -F -n SLOWPOKE-2-Dosimeter-Logging-System -i RMC.ico
+server.py -F -n SLOWPOKE-2-Dosimeter-Logging-System-Server -i RMC.ico
