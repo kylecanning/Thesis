@@ -1,2 +1,2 @@
 pyserial==3.4
-rpyc==4.1.4
+rpyc==6.0.0
